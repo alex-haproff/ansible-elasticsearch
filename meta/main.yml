@@ -30,4 +30,4 @@ dependencies:
       jessie:
         - backports
         - elasticsearch-2.x
-  - role: aeriscloud.yum
+  - role: AerisCloud.yum
