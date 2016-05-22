@@ -18,8 +18,8 @@ galaxy_info:
     - database:nosql
     - monitoring
 dependencies:
-  - role: aeriscloud.nodejs
-  - role: aeriscloud.repos
+  - role: AerisCloud.nodejs
+  - role: AerisCloud.repos
     repositories:
       centos6:
         - elasticsearch-2.x
